@@ -22,6 +22,6 @@ const useForEach = numbers.forEach(num => console.log(num));
 const filters = numbers.filter(num => num > 100);
 console.log(filters);
 
-// find uses 
+// find uses only akta value day but 
 const finds = numbers.find(num => num > 100);
 console.log(finds);
